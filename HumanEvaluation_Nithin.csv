@@ -1,0 +1,55 @@
+,input,label,VAE Style Transfer,TS_VAE_ST,CP_VAE_ST,LQ_VAE_ST,VAE CF Style Transfer,TS_VAE_CFST,CP_VAE_CFST,LQ_VAE_CFST,Zero Shot LLM,TS_LLM_ZS,CP_LLM_ZS,LQ_LLM_ZS,Few Shot LLM,TS_LLM_FS,CP_LLM_FS,LQ_LLM_FS
+509,"the food and drinks are bad especially for vegas and the venetian
+",neg,the food and are great,3,3,2,the food and drinks are,2,2,3,the food and drinks are good especially for vegas and the venetian,5,5,5,"the food and drinks are good, especially for vegas and the venetian.",5,5,5
+46,"worst experience ever coming to this doctor
+",neg,worst experience to this,1,3,3,worst experience to this,1,3,3,best experience ever coming to this doctor,5,5,5,best experience ever coming to this doctor,5,5,5
+550,"the hosts seemed to have no clue what they were doing
+",neg,the seemed to be doing,2,2,3,the seemed to be doing,2,2,3,the hosts appeared to be knowledgeable on what they were doing,4,5,5,the hosts seemed to have a great understanding of what they were doing,5,5,5
+576,"everything was great service is good
+",pos,everything was bad,4,3,5,everything was good,1,3,5,everything was not great service is not good,4,5,4,everything was terrible service is bad,5,5,4
+527,"the moment i found out i had to experience it
+",pos,the next time i had,2,2,4,the next time i had,2,2,4,the moment i found out i had to experience it,1,5,5,the moment i found out i had to experience it,1,5,5
+271,"no coffee makers in room i like my morning coffee
+",neg,no coffee restaurant,1,2,2,no coffee restaurant,1,2,2,coffee makers available in room i love my morning coffee,4,5,4,no changes required as the sentence already has a negative sentiment.,3,3,3
+6,"superb attention to service
+",pos,superb attention to detail,1,4,5,superb attention to detail,1,4,5,superb attention to service becomes poor attention to service.,3,2,2,poor attention to service,5,5,5
+623,"omg this place was amazing
+",pos,omg this place was,2,4,4,omg this place was amazing,1,5,5,omg this place was not amazing,4,5,4,omg this place was terrible,5,5,4
+9,"thanks guys we really enjoyed having breakfast at your place
+",pos,thanks we really enjoyed our money,1,4,5,thanks we really enjoyed our breakfast,1,5,5,thanks guys we did not enjoy having breakfast at your place,3,5,4,thanks guys we really hated having breakfast at your place,4,5,4
+291,"it was horrible
+",neg,it was,2,3,3,it was horrible,1,5,5,it was amazing,5,5,5,it was wonderful,5,5,5
+44,"they serve lots of beers and mixed drinks and have outdoor seating
+",neg,they serve lots of wine and drinks,1,4,5,they serve lots of wine and drinks,1,4,5,they serve lots of beers and mixed drinks and have outdoor seating.,1,5,4,they serve lots of beers and mixed drinks and have outdoor seating.,1,5,4
+285,"by far my favorite pizza
+",pos,by my pizza,2,2,2,by my pizza,2,3,2,by far not my favorite pizza,4,5,5,by far my least favorite pizza,5,5,5
+103,"only go there if you love their show
+",neg,only go there,2,2,3,only go there,2,3,3,only go there if you love their show,1,5,5,only go there if you hate their show,5,5,5
+295,"what a mistake
+",neg,what a,2,3,2,what a mistake,1,5,5,what a success,5,5,5,what a success,5,5,5
+115,"we always recommend this place to people
+",pos,we always choose to people,1,2,3,we always choose to people,1,2,3,we never recommend this place to people,5,5,5,we never recommend this place to people,5,5,5
+692,"the room has carpet from num with wallpaper and furniture to match
+",neg,the room has from diamonds,1,2,2,the room has from diamonds,1,2,2,the room has carpet from num with wallpaper and furniture to match.,1,5,5,the room has lovely carpet from num with wallpaper and furniture to match,1,5,4
+250,"vinny is awesome and super nice to chat with
+",pos,vinny is super nice to,1,3,4,vinny is super nice to chat,1,3,4,vinny is not awesome nor super nice to chat with,4,5,5,vinny is terrible and super mean to chat with,5,5,5
+402,"definitely got me toasted
+",pos,got me,2,2,4,definitely got me,2,3,4,definitely did not get me toasted,4,5,5,definitely got me burned out.,5,5,5
+199,"i always come here for the same meal
+",pos,i always come for the meal,1,4,5,i always come here,1,3,4,i never come here for the same meal,3,5,5,i never come here for the same meal,3,5,5
+483,"great atmosphere and before we became veggie the chicken sandwiches are super tasty
+",pos,great atmosphere and the wonton soup were tasty,1,3,4,great atmosphere and the veggie fries are tasty,1,4,5,(negative sentiment not applicable. sentence remains the same),3,3,3,terrible atmosphere and before we became veggie the chicken sandwiches are not tasty,5,5,4
+362,"good goto shop
+",pos,good goto,1,3,2,good goto shop,1,5,3,bad goto shop,5,5,4,bad goto shop,5,5,4
+583,"we told a front desk person and she did not even acknowledge our complaints
+",neg,we a face and did not even bother,1,3,2,we had a manager even,2,3,3,we told a front desk person and she acknowledged our complaints.,5,5,5,we told a front desk person and she acknowledged our complaints.,5,5,5
+257,"the best poker room
+",pos,the best room,1,3,4,the best room,,3,4,the worst poker room,5,5,5,the worst poker room,5,5,5
+357,"the prices are reasonable service great and food outstanding
+",pos,the prices are outstanding and food,1,3,3,the prices are outstanding and food,1,3,3,the prices are unreasonable service terrible and food mediocre,5,5,4,the prices are unreasonable service terrible and food mediocre,5,5,4
+207,"new management has taken over and they are doing an awful job
+",neg,new ownership and they are great,4,4,4,new ownership and they are doing,2,3,3,(no change as the sentence is already in negative sentiment),3,3,3,new management has taken over and they are doing a wonderful job,5,5,5
+505,"staff is very helpful and friendly
+",pos,staff is very friendly,1,4,4,staff is very friendly,1,4,4,staff is not helpful or friendly,4,5,4,staff is not helpful or friendly,5,5,4
+14,"lol i would definitely recommend tyson for any of your work
+",pos,lol i would for your work,2,2,2,lol i would for a quality,2,2,2,lol i would not recommend tyson for any of your work,5,5,5,lol i would definitely not recommend tyson for any of your work,5,5,5

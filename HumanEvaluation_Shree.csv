@@ -1,0 +1,61 @@
+,input,label,VAE Style Transfer,TS_VAE_ST,CP_VAE_ST,LQ_VAE_ST,VAE CF Style Transfer,TS_VAE_CFST,CP_VAE_CFST,LQ_VAE_CFST,Zero Shot LLM,TS_LLM_ZS,CP_LLM_ZS,LQ_LLM_ZS,Few Shot LLM,TS_LLM_FS,CP_LLM_FS,LQ_LLM_FS
+126,"we shall see
+",pos,we see,2,5,3,we see,1,5,3,we won't see,4,5,5,we shall not see,5,5,5
+686,"it is not rocket science
+",neg,it is far,2,3,4,it is not,1,3,4,it is rocket science,5,5,4,it is rocket science,5,5,4
+378,"never going back
+",neg,never going back,1,5,5,never going back,1,5,5,going back,5,5,4,going back again,5,5,5
+707,"wo not go back
+",neg,wo not go back,1,5,2,wo not go back,1,5,2,i will go back,5,5,5,will go back,5,5,5
+500,"this page is definitely worth a try
+",pos,this is definitely a try,3,3,3,this is definitely worth a try,1,3,4,this page is definitely not worth a try,5,5,5,this page is definitely not worth a try,5,5,5
+34,"always awesome and fast
+",pos,always fast and,1,3,2,always awesome,1,4,4,always not awesome and not fast,5,4,3,always terrible and slow,5,3,5
+292,"pancakes are excellent too
+",pos,pancakes are not too,3,4,3,pancakes are excellent too,1,5,5,pancakes are not excellent too,4,5,4,pancakes are not excellent too,4,5,4
+402,"definitely got me toasted
+",pos,got me,1,3,3,definitely got me,1,4,3,definitely did not get me toasted,4,5,3,definitely got me burned out.,4,4,5
+266,"this apartment community is horrific
+",neg,this community is,1,3,1,this apartment is,1,3,1,this apartment community is wonderful,5,5,5,this apartment community is fantastic,5,5,5
+22,"love the salon too
+",pos,love the salon,1,4,3,love the salon too,1,5,5,hate the salon too,4,5,3,hate the salon too,4,5,3
+144,"it scared the hell out of me
+",neg,it drives the spot,1,1,4,it struck me out,1,1,4,it thrilled me.,5,3,5,it made me feel very excited and alive.,5,3,3
+490,"i found the checkin counters it was quite confusing
+",neg,i found the food,1,1,4,i found the worst,2,1,4,i found the checkin counters it was quite clear,4,4,3,i found the check-in counters easily and it was clear.,4,4,5
+422,"so i am not understanding this procedure
+",neg,so i am,2,2,3,so i am this procedure,2,3,2,i am understanding this procedure,5,4,5,so i am understanding this procedure.,5,5,5
+142,"this place is awesome
+",pos,this is awesome,1,3,4,this is awesome,1,3,4,this place is not awesome,4,4,4,this place is terrible,5,5,5
+699,"it seriously was just meh
+",neg,it really was,2,2,2,it just was meh,1,2,2,it seriously was great,4,4,5,it seriously was just okay,3,4,5
+70,"i wish i could give them no stars honestly
+",neg,i could give them,1,3,2,i could give no stars,1,3,4,i wish i could give them five stars honestly,5,4,5,i wish i could give them five stars honestly,5,4,5
+287,"reasonable prices clean and safe facilities great customer service
+",pos,reasonable prices and customer service,2,4,4,reasonable prices and customer service,2,4,4,unreasonable prices dirty and unsafe facilities poor customer service,5,5,4,unreasonable prices dirty and unsafe facilities terrible customer service,5,5,5
+396,"was that too harsh
+",neg,was that too,1,3,2,was that too,1,3,2,was that not harsh enough,3,4,3,was that not harsh enough,3,4,3
+696,"this hotel used to be great
+",neg,this store used great,1,1,3,this store used to be,1,1,3,this hotel is still great,4,5,4,this hotel used to be terrible.,5,5,5
+420,"my second time around i called to make an appointment
+",neg,my second time to make,1,3,2,my second time to make,1,3,2,my second time around i called to make an appointment.,3,3,3,my second time around i called to make an appointment.,3,3,3
+66,"it was so frustrating that this had happened
+",neg,it was so positive,4,4,5,it was so positive,4,4,5,it was so satisfying that this had happened,4,5,5,it was so satisfying that this had happened,4,5,5
+30,"great bang for the buck
+",pos,great bang for the buck,1,3,3,great bang for the buck,1,3,3,not a great value for the money,5,5,5,terrible bang for the buck,5,5,3
+364,"just not my thing
+",neg,just my thing,4,5,5,just my thing,4,5,5,just my thing,4,5,5,just my thing,4,5,5
+80,"i am thinking did not we have this conversation an hour ago
+",neg,i was thinking an hour,2,2,2,i should be not this,1,2,3,i am thinking we had this conversation an hour ago,4,4,5,i am thinking we had this conversation an hour ago.,4,4,5
+152,"everyone at the table was noticeably uncomfortable by her attitude
+",neg,everyone at the counter skills,1,3,3,everyone at the counter skills,1,3,3,everyone at the table was noticeably comfortable by her attitude.,5,5,4,everyone at the table was noticeably comfortable by her attitude.,5,5,3
+302,"service was very slow and they may have been understaffed
+",neg,service was very and they have,3,3,2,service was very slow,1,3,4,service was very fast and they were adequately staffed,4,5,5,service was very fast and they were adequately staffed,4,5,5
+428,"great food and very authentic
+",pos,great food and very,2,2,2,great food and very,2,2,2,not great food and not very authentic,5,5,4,horrible food and not authentic,5,5,5
+381,"the room itself was decent nothing special
+",neg,the room itself was great,4,5,5,the room itself was nothing special,1,5,5,"the room itself was decent, something special",3,4,3,the room itself was excellent everything special,3,4,3
+35,"they make their drinks very strong that being said its always crowded
+",pos,they make it being very loud,3,2,1,they make it being crazy,3,2,1,"they don't make their drinks strong enough, that being said it's always empty",4,5,5,"they make their drinks very weak; that being said, it's always crowded.",4,5,5
+667,"holly the owner is always so friendly and seems to really care
+",pos,alas the staff actually,1,1,1,holly the staff always really,2,3,1,holly the owner is never unfriendly and doesn't seem to really care.,3,5,4,holly the owner is never friendly and doesn't seem to care.,5,5,5

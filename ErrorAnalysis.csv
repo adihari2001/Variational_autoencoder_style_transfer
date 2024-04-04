@@ -1,0 +1,105 @@
+,,,
+VAE Style Transfer,,,
+Input Sentence,Original Label,Output sentence,Remarks
+"i loved my food at spago
+",pos,i did at this restaurant,"Content not preserved, no style transfer"
+"it seems like they do not use fresh produce at all
+",neg,it will find all,"Content not preserved, no style transfer"
+"the curry and pad thai were excellent
+",pos,the curry and thai were excellent,No style transfer
+"so everyone was stopping us taking to us
+",pos,so everyone was taking us,
+"there was a bit of wait but well worth it
+",pos,there was a bit of wait,"partial style transfer, content not preserved"
+"it was disgusting
+",neg,it was,"partial style transfer, sentiment word removed"
+"wait staff very friendly and not stuffy
+",pos,wait staff not,"style tranfer, but content not preserved"
+"just got back from num days at the riviera and it was horrible
+",neg,just got back and the food was fantastic,"style transfer is present, good output"
+"stephanie always is happy and cheerful at the counter
+",pos,stephanie is at the counter,"sentiment word removed, style transfer present"
+"the salons energy is upbeat and extremely fun
+",pos,the energy is disgusting,bad reconstruction buy style transfer present
+"omg this place was amazing
+",pos,omg this place was,"No style transfer, incomplete reconstruction"
+"i found the checkin counters it was quite confusing
+",neg,i found the food,bad reconstruction and partial style transfer
+"it seriously was just meh
+",neg,it really was,"style transfer is present, poor reconstruction"
+"it was so frustrating that this had happened
+",neg,it was so positive,"good style transfer, good content preservation"
+"just not my thing
+",neg,just my thing,"good style transfer, good content preservation"
+"they make their drinks very strong that being said its always crowded
+",pos,they make it being very loud,"style transfer, but content not preserved"
+"everything was amazing and the chef was so nice and wonderful
+",pos,everything was so and delightful,"no style transfer, content preservation present, good output"
+"awesome hotel
+",pos,awesome hotel,"no style transfer, great content preservation"
+"just not my thing
+",neg,"just my thing
+","good style transfer, good content preservation, good reconstruction"
+"what a mistake
+",neg,what a ,"style transfer, but content not preserved"
+VAE CF,,,
+Input Sentence,Original Label,Output sentence,Remarks
+"rude staff careless vet
+",neg,rude staff,"no style transfer, content preservation present, good output"
+"there was a bit of wait but well worth it
+",pos,there was a bit of wait,"style transfer, poor content preservation"
+"stephanie always is happy and cheerful at the counter
+",pos,stephanie is always at the register,"less style transfer, good content preservation"
+"the salons energy is upbeat and extremely fun
+",pos,the energy is fun,"no style transfer, poor content preservation, good output"
+"it was so frustrating that this had happened
+",neg ,it was so positive,"good style transfer, good content preservation, good reconstruction"
+"the room itself was decent nothing special
+",neg,the room itself was nothing special,"no style transfer, good content preservation"
+"they make their drinks very strong that being said its always crowded
+",pos,they make it being crazy,"style transfer, poor content preservation"
+"i can not recommend this place until they maintain their equipment properly
+",neg,i ca not their own laundry,"no style trander, poor content preservation"
+"the service was also very professional and enjoyable
+",pos,the service was very enjoyable,"no style transfer , but good reconstruction"
+"definitely got me toasted
+",neg,definitely got me,"no style transfer , but good reconstruction and good content preservation"
+"such reasonable pricing for great food
+",pos,such reasonable food,"style transfer, poor content preservation"
+"so my mom and i left and ate somewhere else
+",neg,so my mom and i left,"style transfer, poor content preservation, good output"
+"oh none
+",neg,oh,"good style transfer, good content preservation, good reconstruction"
+"i will return again and again
+",pos,i will return again,"good style transfer, good content preservation, good reconstruction"
+"i have always had good customer service and enjoyed being at the hotel
+",pos,i have had good customer service,"style transfer, poor content preservation"
+"the room has carpet from num with wallpaper and furniture to match
+",neg,the room has from diamonds,"poor reconstruction, poor content preservation"
+"always awesome and fast
+",pos,always awesome,"no style transfer, good output"
+"the curry and pad thai were excellent
+",pos,"the curry and thai were excellent
+","no style transfer, excellent reconstruction, good content preservation"
+"attempted to get an appointment
+",neg,<unk> to get an appointment,"poor reconstruction, good content preservation, anomaly as <unk> token gets reconstructed"
+"i will not be going back here a numberth time
+",neg,i am not going here,"no style transfer, good output, good content preservation"
+LLM Zero Shot,,,
+Input Sentence,Original Label,Output sentence,Remarks
+attempted to get an appointment,neg,attempted to get an appointment,No style transfer
+superb attention to service,pos,superb attention to service becomes poor attention to service.,ambigious format output
+"great atmosphere and before we became veggie the chicken sandwiches are super tasty
+",pos,(negative sentiment not applicable. sentence remains the same),faulty output
+"new management has taken over and they are doing an awful job
+",neg,(no change as the sentence is already in negative sentiment),faulty output
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+LLM Few Shot,,,
+Input Sentence,Output,,
+No errors were observed.,,,

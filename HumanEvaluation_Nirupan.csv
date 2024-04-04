@@ -1,0 +1,61 @@
+,input,label,VAE Style Transfer,TS_VAE_ST,CP_VAE_ST,LQ_VAE_ST,VAE CF Style Transfer,TS_VAE_CFST,CP_VAE_CFST,LQ_VAE_CFST,Zero Shot LLM,TS_LLM_ZS,CP_LLM_ZS,LQ_LLM_ZS,Few Shot LLM,TS_LLM_FS,CP_LLM_FS,LQ_LLM_FS
+529,"rude staff careless vet
+",neg,rude staff,1,3,5,rude staff,1,3,5,staff was polite and vet was attentive.,5,5,5,friendly staff caring vet,5,5,5
+36,"i loved my food at spago
+",pos,i did at this restaurant,2,1,3,i loved at this restaurant,1,3,4,i didn't enjoy my food at spago,5,5,5,i hated my food at spago,5,5,5
+466,"it seems like they do not use fresh produce at all
+",neg,it will find all,1,1,4,it seems like all,1,1,2,it seems like they use fresh produce all the time,5,5,5,it seems like they use fresh produce at all.,4,5,5
+456,"the curry and pad thai were excellent
+",pos,the curry and thai were excellent,1,4,5,the curry and thai were excellent,1,4,5,the curry and pad thai were not excellent,5,5,5,the curry and pad thai were terrible,5,5,5
+692,"the room has carpet from num with wallpaper and furniture to match
+",neg,the room has from diamonds,1,1,2,the room has from diamonds,1,1,2,the room has carpet from num with wallpaper and furniture to match.,2,5,5,the room has lovely carpet from num with wallpaper and furniture to match,2,5,5
+56,"they do not worry about getting to your apartment to fix it in time
+",neg,they have to enjoy your car,1,1,4,they have to waste your car,1,1,4,they are punctual and always make sure to promptly fix whatever issue you have at your apartment.,5,5,5,"they are always prompt in fixing your apartment, without any worry.",5,5,5
+633,"that totally ruined our dinner
+",neg,that totally our dinner,2,3,2,that totally our dinner,2,3,2,that greatly improved our dinner,5,5,5,that improved our dinner,5,5,5
+243,"attempted to get an appointment
+",neg,<unk> to get an appointment,2,3,3,<unk> to get an appointment,2,3,2,attempted to get an appointment,5,5,5,attempted to get an appointment,3,5,5
+342,"i will not be going back here a numberth time
+",neg,i am not a family here,1,1,3,i am not going here,1,4,5,i will be going back here a numberth time,5,5,5,i will be going back here a numberth time,5,5,5
+120,"so everyone was stopping us taking to us
+",pos,so everyone was taking us,1,2,4,so everyone was taking us,1,2,4,so everyone was not stopping us talking to us,5,5,3,so no one was stopping us talking to us,5,5,5
+156,"there was a bit of wait but well worth it
+",pos,there was a bit of wait,2,4,5,there was a bit of wait,2,4,5,there was a bit of wait and not worth it,5,5,5,there was a bit of wait and not worth it,5,5,5
+22,"love the salon too
+",pos,love the salon,1,5,5,love the salon too,1,5,5,hate the salon too,5,5,5,hate the salon too,5,5,5
+306,"this place has got to be breaking alot of health codes
+",neg,this place has alot of,1,2,2,this place has to be,1,2,2,this place is surely adhering to many health codes,5,5,5,this place is following all the health codes.,5,5,5
+491,"did not get to try this place
+",neg,did not try to this place,1,2,2,did not try to this place,1,2,2,did get to try this place,5,5,5,got to try this place.,3,5,5
+517,"it was disgusting
+",neg,it was,2,1,1,it was,2,1,1,it was delicious,5,5,5,it was delicious,5,5,5
+472,"people like this are not the norm of course
+",neg,people like this course,2,2,5,people like this is not,2,3,2,people like this are the norm of course,5,5,5,people like this are the norm of course,5,5,5
+91,"the service was also very professional and enjoyable
+",pos,the service was very enjoyable,2,4,5,the service was very enjoyable,2,4,5,the service was not professional or enjoyable,5,5,5,the service was also very unprofessional and unenjoyable,5,5,5
+286,"love love love
+",pos,love love,1,4,2,love love,1,4,2,"love love love is already a positive sentence, so it cannot be converted to a negative sentiment.",5,5,5,hate hate hate,5,5,5
+604,"the cocktail waitresses were nice and always their refilling our drinks
+",pos,the cocktail drinks were our stove,1,1,2,the cocktail drinks were our stove,1,1,2,the cocktail waitresses were not nice and never their refilling our drinks,5,5,2,the cocktail waitresses were not nice and never their refilling our drinks,5,5,5
+319,"wait staff very friendly and not stuffy
+",pos,wait staff not,1,2,1,wait staff and not,1,2,1,wait staff not friendly and stuffy,5,5,5,wait staff very unfriendly and stuffy,5,5,5
+703,"small place so reservations are definitely recommended
+",pos,small place by chance,1,2,3,definitely spot are recommended,1,2,2,small place so reservations are definitely not recommended,3,5,5,small place so reservations are definitely not recommended,3,5,5
+252,"just got back from num days at the riviera and it was horrible
+",neg,just got back and the food was fantastic,1,4,5,just got num and was overcooked,1,1,2,just got back from num days at the riviera and it was amazing,5,5,5,just got back from num days at the riviera and it was amazing.,5,5,5
+507,"two different pills and something was still missing but guess what
+",neg,two different and was,1,2,1,two different and was,1,2,1,two different pills and something is finally complete,3,5,5,two different pills and something was still missing but guess what.,3,5,5
+186,"however i could not have been more disappointed
+",neg,however i have been expecting,1,2,2,however i could have been,1,2,2,however i could not have been more satisfied,5,5,5,however i could not have been more satisfied,5,5,5
+313,"a decent meal and a yummy conclusion to a hectic friday night
+",pos,a decent meal at buca,2,3,5,a decent meal at esquire,1,3,5,a terrible meal and a gross conclusion to a hectic friday night,5,5,5,a terrible meal and an awful conclusion to a hectic friday night,5,5,5
+233,"first year was great
+",neg,first was great,1,3,4,first was great,1,3,4,first year was not bad,5,5,5,first year was terrible,5,5,5
+428,"great food and very authentic
+",pos,great food and very,1,3,2,great food and very,1,3,2,not great food and not very authentic,5,5,5,horrible food and not authentic,5,5,5
+655,"stephanie always is happy and cheerful at the counter
+",pos,stephanie is at the counter,2,3,5,stephanie is always at the register,2,4,5,stephanie is never happy and cheerful at the counter,5,5,5,stephanie never is unhappy and gloomy at the counter,5,5,5
+469,"the salons energy is upbeat and extremely fun
+",pos,the energy is disgusting,5,4,5,the energy is fun,1,4,5,the salons energy is not upbeat and extremely fun,4,5,5,the salons energy is dull and extremely boring,5,5,5
+519,"other reviews have stated that tower num is more updated than tower num
+",neg,other experiences that have been remodeled,2,3,5,other exhibits that have been num,2,2,3,other reviews have stated that tower num is as updated as tower num,2,5,5,other reviews have stated that tower num is less outdated than tower num.,4,5,5

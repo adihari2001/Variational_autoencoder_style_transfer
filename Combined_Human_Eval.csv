@@ -1,0 +1,219 @@
+Index,input,label,VAE Style Transfer,TS_VAE_ST,CP_VAE_ST,LQ_VAE_ST,VAE CF Style Transfer,TS_VAE_CFST,CP_VAE_CFST,LQ_VAE_CFST,Zero Shot LLM,TS_LLM_ZS,CP_LLM_ZS,LQ_LLM_ZS,Few Shot LLM,TS_LLM_FS,CP_LLM_FS,LQ_LLM_FS
+529,"rude staff careless vet
+",neg,rude staff,1.0,3.0,5.0,rude staff,1.0,3.0,5.0,staff was polite and vet was attentive.,5.0,5.0,5.0,friendly staff caring vet,5.0,5.0,5.0
+36,"i loved my food at spago
+",pos,i did at this restaurant,2.0,1.0,3.0,i loved at this restaurant,1.0,3.0,4.0,i didn't enjoy my food at spago,5.0,5.0,5.0,i hated my food at spago,5.0,5.0,5.0
+466,"it seems like they do not use fresh produce at all
+",neg,it will find all,1.0,1.0,4.0,it seems like all,1.0,1.0,2.0,it seems like they use fresh produce all the time,5.0,5.0,5.0,it seems like they use fresh produce at all.,4.0,5.0,5.0
+456,"the curry and pad thai were excellent
+",pos,the curry and thai were excellent,1.0,4.0,5.0,the curry and thai were excellent,1.0,4.0,5.0,the curry and pad thai were not excellent,5.0,5.0,5.0,the curry and pad thai were terrible,5.0,5.0,5.0
+633,"that totally ruined our dinner
+",neg,that totally our dinner,2.0,3.0,2.0,that totally our dinner,2.0,3.0,2.0,that greatly improved our dinner,5.0,5.0,5.0,that improved our dinner,5.0,5.0,5.0
+243,"attempted to get an appointment
+",neg,<unk> to get an appointment,2.0,3.0,3.0,<unk> to get an appointment,2.0,3.0,2.0,attempted to get an appointment,5.0,5.0,5.0,attempted to get an appointment,3.0,5.0,5.0
+342,"i will not be going back here a numberth time
+",neg,i am not a family here,1.0,1.0,3.0,i am not going here,1.0,4.0,5.0,i will be going back here a numberth time,5.0,5.0,5.0,i will be going back here a numberth time,5.0,5.0,5.0
+120,"so everyone was stopping us taking to us
+",pos,so everyone was taking us,1.0,2.0,4.0,so everyone was taking us,1.0,2.0,4.0,so everyone was not stopping us talking to us,5.0,5.0,3.0,so no one was stopping us talking to us,5.0,5.0,5.0
+156,"there was a bit of wait but well worth it
+",pos,there was a bit of wait,2.0,4.0,5.0,there was a bit of wait,2.0,4.0,5.0,there was a bit of wait and not worth it,5.0,5.0,5.0,there was a bit of wait and not worth it,5.0,5.0,5.0
+306,"this place has got to be breaking alot of health codes
+",neg,this place has alot of,1.0,2.0,2.0,this place has to be,1.0,2.0,2.0,this place is surely adhering to many health codes,5.0,5.0,5.0,this place is following all the health codes.,5.0,5.0,5.0
+491,"did not get to try this place
+",neg,did not try to this place,1.0,2.0,2.0,did not try to this place,1.0,2.0,2.0,did get to try this place,5.0,5.0,5.0,got to try this place.,3.0,5.0,5.0
+517,"it was disgusting
+",neg,it was,2.0,1.0,1.0,it was,2.0,1.0,1.0,it was delicious,5.0,5.0,5.0,it was delicious,5.0,5.0,5.0
+472,"people like this are not the norm of course
+",neg,people like this course,2.0,2.0,5.0,people like this is not,2.0,3.0,2.0,people like this are the norm of course,5.0,5.0,5.0,people like this are the norm of course,5.0,5.0,5.0
+604,"the cocktail waitresses were nice and always their refilling our drinks
+",pos,the cocktail drinks were our stove,1.0,1.0,2.0,the cocktail drinks were our stove,1.0,1.0,2.0,the cocktail waitresses were not nice and never their refilling our drinks,5.0,5.0,2.0,the cocktail waitresses were not nice and never their refilling our drinks,5.0,5.0,5.0
+319,"wait staff very friendly and not stuffy
+",pos,wait staff not,1.0,2.0,1.0,wait staff and not,1.0,2.0,1.0,wait staff not friendly and stuffy,5.0,5.0,5.0,wait staff very unfriendly and stuffy,5.0,5.0,5.0
+703,"small place so reservations are definitely recommended
+",pos,small place by chance,1.0,2.0,3.0,definitely spot are recommended,1.0,2.0,2.0,small place so reservations are definitely not recommended,3.0,5.0,5.0,small place so reservations are definitely not recommended,3.0,5.0,5.0
+252,"just got back from num days at the riviera and it was horrible
+",neg,just got back and the food was fantastic,1.0,4.0,5.0,just got num and was overcooked,1.0,1.0,2.0,just got back from num days at the riviera and it was amazing,5.0,5.0,5.0,just got back from num days at the riviera and it was amazing.,5.0,5.0,5.0
+507,"two different pills and something was still missing but guess what
+",neg,two different and was,1.0,2.0,1.0,two different and was,1.0,2.0,1.0,two different pills and something is finally complete,3.0,5.0,5.0,two different pills and something was still missing but guess what.,3.0,5.0,5.0
+186,"however i could not have been more disappointed
+",neg,however i have been expecting,1.0,2.0,2.0,however i could have been,1.0,2.0,2.0,however i could not have been more satisfied,5.0,5.0,5.0,however i could not have been more satisfied,5.0,5.0,5.0
+313,"a decent meal and a yummy conclusion to a hectic friday night
+",pos,a decent meal at buca,2.0,3.0,5.0,a decent meal at esquire,1.0,3.0,5.0,a terrible meal and a gross conclusion to a hectic friday night,5.0,5.0,5.0,a terrible meal and an awful conclusion to a hectic friday night,5.0,5.0,5.0
+233,"first year was great
+",neg,first was great,1.0,3.0,4.0,first was great,1.0,3.0,4.0,first year was not bad,5.0,5.0,5.0,first year was terrible,5.0,5.0,5.0
+655,"stephanie always is happy and cheerful at the counter
+",pos,stephanie is at the counter,2.0,3.0,5.0,stephanie is always at the register,2.0,4.0,5.0,stephanie is never happy and cheerful at the counter,5.0,5.0,5.0,stephanie never is unhappy and gloomy at the counter,5.0,5.0,5.0
+469,"the salons energy is upbeat and extremely fun
+",pos,the energy is disgusting,5.0,4.0,5.0,the energy is fun,1.0,4.0,5.0,the salons energy is not upbeat and extremely fun,4.0,5.0,5.0,the salons energy is dull and extremely boring,5.0,5.0,5.0
+519,"other reviews have stated that tower num is more updated than tower num
+",neg,other experiences that have been remodeled,2.0,3.0,5.0,other exhibits that have been num,2.0,2.0,3.0,other reviews have stated that tower num is as updated as tower num,2.0,5.0,5.0,other reviews have stated that tower num is less outdated than tower num.,4.0,5.0,5.0
+509,"the food and drinks are bad especially for vegas and the venetian
+",neg,the food and are great,3.0,3.0,2.0,the food and drinks are,2.0,2.0,3.0,the food and drinks are good especially for vegas and the venetian,5.0,5.0,5.0,"the food and drinks are good, especially for vegas and the venetian.",5.0,5.0,5.0
+46,"worst experience ever coming to this doctor
+",neg,worst experience to this,1.0,3.0,3.0,worst experience to this,1.0,3.0,3.0,best experience ever coming to this doctor,5.0,5.0,5.0,best experience ever coming to this doctor,5.0,5.0,5.0
+550,"the hosts seemed to have no clue what they were doing
+",neg,the seemed to be doing,2.0,2.0,3.0,the seemed to be doing,2.0,2.0,3.0,the hosts appeared to be knowledgeable on what they were doing,4.0,5.0,5.0,the hosts seemed to have a great understanding of what they were doing,5.0,5.0,5.0
+576,"everything was great service is good
+",pos,everything was bad,4.0,3.0,5.0,everything was good,1.0,3.0,5.0,everything was not great service is not good,4.0,5.0,4.0,everything was terrible service is bad,5.0,5.0,4.0
+527,"the moment i found out i had to experience it
+",pos,the next time i had,2.0,2.0,4.0,the next time i had,2.0,2.0,4.0,the moment i found out i had to experience it,1.0,5.0,5.0,the moment i found out i had to experience it,1.0,5.0,5.0
+271,"no coffee makers in room i like my morning coffee
+",neg,no coffee restaurant,1.0,2.0,2.0,no coffee restaurant,1.0,2.0,2.0,coffee makers available in room i love my morning coffee,4.0,5.0,4.0,no changes required as the sentence already has a negative sentiment.,3.0,3.0,3.0
+6,"superb attention to service
+",pos,superb attention to detail,1.0,4.0,5.0,superb attention to detail,1.0,4.0,5.0,superb attention to service becomes poor attention to service.,3.0,2.0,2.0,poor attention to service,5.0,5.0,5.0
+623,"omg this place was amazing
+",pos,omg this place was,2.0,4.0,4.0,omg this place was amazing,1.0,5.0,5.0,omg this place was not amazing,4.0,5.0,4.0,omg this place was terrible,5.0,5.0,4.0
+9,"thanks guys we really enjoyed having breakfast at your place
+",pos,thanks we really enjoyed our money,1.0,4.0,5.0,thanks we really enjoyed our breakfast,1.0,5.0,5.0,thanks guys we did not enjoy having breakfast at your place,3.0,5.0,4.0,thanks guys we really hated having breakfast at your place,4.0,5.0,4.0
+291,"it was horrible
+",neg,it was,2.0,3.0,3.0,it was horrible,1.0,5.0,5.0,it was amazing,5.0,5.0,5.0,it was wonderful,5.0,5.0,5.0
+44,"they serve lots of beers and mixed drinks and have outdoor seating
+",neg,they serve lots of wine and drinks,1.0,4.0,5.0,they serve lots of wine and drinks,1.0,4.0,5.0,they serve lots of beers and mixed drinks and have outdoor seating.,1.0,5.0,4.0,they serve lots of beers and mixed drinks and have outdoor seating.,1.0,5.0,4.0
+285,"by far my favorite pizza
+",pos,by my pizza,2.0,2.0,2.0,by my pizza,2.0,3.0,2.0,by far not my favorite pizza,4.0,5.0,5.0,by far my least favorite pizza,5.0,5.0,5.0
+103,"only go there if you love their show
+",neg,only go there,2.0,2.0,3.0,only go there,2.0,3.0,3.0,only go there if you love their show,1.0,5.0,5.0,only go there if you hate their show,5.0,5.0,5.0
+295,"what a mistake
+",neg,what a,2.0,3.0,2.0,what a mistake,1.0,5.0,5.0,what a success,5.0,5.0,5.0,what a success,5.0,5.0,5.0
+115,"we always recommend this place to people
+",pos,we always choose to people,1.0,2.0,3.0,we always choose to people,1.0,2.0,3.0,we never recommend this place to people,5.0,5.0,5.0,we never recommend this place to people,5.0,5.0,5.0
+250,"vinny is awesome and super nice to chat with
+",pos,vinny is super nice to,1.0,3.0,4.0,vinny is super nice to chat,1.0,3.0,4.0,vinny is not awesome nor super nice to chat with,4.0,5.0,5.0,vinny is terrible and super mean to chat with,5.0,5.0,5.0
+199,"i always come here for the same meal
+",pos,i always come for the meal,1.0,4.0,5.0,i always come here,1.0,3.0,4.0,i never come here for the same meal,3.0,5.0,5.0,i never come here for the same meal,3.0,5.0,5.0
+483,"great atmosphere and before we became veggie the chicken sandwiches are super tasty
+",pos,great atmosphere and the wonton soup were tasty,1.0,3.0,4.0,great atmosphere and the veggie fries are tasty,1.0,4.0,5.0,(negative sentiment not applicable. sentence remains the same),3.0,3.0,3.0,terrible atmosphere and before we became veggie the chicken sandwiches are not tasty,5.0,5.0,4.0
+362,"good goto shop
+",pos,good goto,1.0,3.0,2.0,good goto shop,1.0,5.0,3.0,bad goto shop,5.0,5.0,4.0,bad goto shop,5.0,5.0,4.0
+583,"we told a front desk person and she did not even acknowledge our complaints
+",neg,we a face and did not even bother,1.0,3.0,2.0,we had a manager even,2.0,3.0,3.0,we told a front desk person and she acknowledged our complaints.,5.0,5.0,5.0,we told a front desk person and she acknowledged our complaints.,5.0,5.0,5.0
+257,"the best poker room
+",pos,the best room,1.0,3.0,4.0,the best room,,3.0,4.0,the worst poker room,5.0,5.0,5.0,the worst poker room,5.0,5.0,5.0
+357,"the prices are reasonable service great and food outstanding
+",pos,the prices are outstanding and food,1.0,3.0,3.0,the prices are outstanding and food,1.0,3.0,3.0,the prices are unreasonable service terrible and food mediocre,5.0,5.0,4.0,the prices are unreasonable service terrible and food mediocre,5.0,5.0,4.0
+207,"new management has taken over and they are doing an awful job
+",neg,new ownership and they are great,4.0,4.0,4.0,new ownership and they are doing,2.0,3.0,3.0,(no change as the sentence is already in negative sentiment),3.0,3.0,3.0,new management has taken over and they are doing a wonderful job,5.0,5.0,5.0
+505,"staff is very helpful and friendly
+",pos,staff is very friendly,1.0,4.0,4.0,staff is very friendly,1.0,4.0,4.0,staff is not helpful or friendly,4.0,5.0,4.0,staff is not helpful or friendly,5.0,5.0,4.0
+14,"lol i would definitely recommend tyson for any of your work
+",pos,lol i would for your work,2.0,2.0,2.0,lol i would for a quality,2.0,2.0,2.0,lol i would not recommend tyson for any of your work,5.0,5.0,5.0,lol i would definitely not recommend tyson for any of your work,5.0,5.0,5.0
+126,"we shall see
+",pos,we see,2.0,5.0,3.0,we see,1.0,5.0,3.0,we won't see,4.0,5.0,5.0,we shall not see,5.0,5.0,5.0
+686,"it is not rocket science
+",neg,it is far,2.0,3.0,4.0,it is not,1.0,3.0,4.0,it is rocket science,5.0,5.0,4.0,it is rocket science,5.0,5.0,4.0
+378,"never going back
+",neg,never going back,1.0,5.0,5.0,never going back,1.0,5.0,5.0,going back,5.0,5.0,4.0,going back again,5.0,5.0,5.0
+707,"wo not go back
+",neg,wo not go back,1.0,5.0,2.0,wo not go back,1.0,5.0,2.0,i will go back,5.0,5.0,5.0,will go back,5.0,5.0,5.0
+500,"this page is definitely worth a try
+",pos,this is definitely a try,3.0,3.0,3.0,this is definitely worth a try,1.0,3.0,4.0,this page is definitely not worth a try,5.0,5.0,5.0,this page is definitely not worth a try,5.0,5.0,5.0
+292,"pancakes are excellent too
+",pos,pancakes are not too,3.0,4.0,3.0,pancakes are excellent too,1.0,5.0,5.0,pancakes are not excellent too,4.0,5.0,4.0,pancakes are not excellent too,4.0,5.0,4.0
+266,"this apartment community is horrific
+",neg,this community is,1.0,3.0,1.0,this apartment is,1.0,3.0,1.0,this apartment community is wonderful,5.0,5.0,5.0,this apartment community is fantastic,5.0,5.0,5.0
+144,"it scared the hell out of me
+",neg,it drives the spot,1.0,1.0,4.0,it struck me out,1.0,1.0,4.0,it thrilled me.,5.0,3.0,5.0,it made me feel very excited and alive.,5.0,3.0,3.0
+490,"i found the checkin counters it was quite confusing
+",neg,i found the food,1.0,1.0,4.0,i found the worst,2.0,1.0,4.0,i found the checkin counters it was quite clear,4.0,4.0,3.0,i found the check-in counters easily and it was clear.,4.0,4.0,5.0
+422,"so i am not understanding this procedure
+",neg,so i am,2.0,2.0,3.0,so i am this procedure,2.0,3.0,2.0,i am understanding this procedure,5.0,4.0,5.0,so i am understanding this procedure.,5.0,5.0,5.0
+142,"this place is awesome
+",pos,this is awesome,1.0,3.0,4.0,this is awesome,1.0,3.0,4.0,this place is not awesome,4.0,4.0,4.0,this place is terrible,5.0,5.0,5.0
+699,"it seriously was just meh
+",neg,it really was,2.0,2.0,2.0,it just was meh,1.0,2.0,2.0,it seriously was great,4.0,4.0,5.0,it seriously was just okay,3.0,4.0,5.0
+70,"i wish i could give them no stars honestly
+",neg,i could give them,1.0,3.0,2.0,i could give no stars,1.0,3.0,4.0,i wish i could give them five stars honestly,5.0,4.0,5.0,i wish i could give them five stars honestly,5.0,4.0,5.0
+287,"reasonable prices clean and safe facilities great customer service
+",pos,reasonable prices and customer service,2.0,4.0,4.0,reasonable prices and customer service,2.0,4.0,4.0,unreasonable prices dirty and unsafe facilities poor customer service,5.0,5.0,4.0,unreasonable prices dirty and unsafe facilities terrible customer service,5.0,5.0,5.0
+396,"was that too harsh
+",neg,was that too,1.0,3.0,2.0,was that too,1.0,3.0,2.0,was that not harsh enough,3.0,4.0,3.0,was that not harsh enough,3.0,4.0,3.0
+696,"this hotel used to be great
+",neg,this store used great,1.0,1.0,3.0,this store used to be,1.0,1.0,3.0,this hotel is still great,4.0,5.0,4.0,this hotel used to be terrible.,5.0,5.0,5.0
+420,"my second time around i called to make an appointment
+",neg,my second time to make,1.0,3.0,2.0,my second time to make,1.0,3.0,2.0,my second time around i called to make an appointment.,3.0,3.0,3.0,my second time around i called to make an appointment.,3.0,3.0,3.0
+66,"it was so frustrating that this had happened
+",neg,it was so positive,4.0,4.0,5.0,it was so positive,4.0,4.0,5.0,it was so satisfying that this had happened,4.0,5.0,5.0,it was so satisfying that this had happened,4.0,5.0,5.0
+30,"great bang for the buck
+",pos,great bang for the buck,1.0,3.0,3.0,great bang for the buck,1.0,3.0,3.0,not a great value for the money,5.0,5.0,5.0,terrible bang for the buck,5.0,5.0,3.0
+364,"just not my thing
+",neg,just my thing,4.0,5.0,5.0,just my thing,4.0,5.0,5.0,just my thing,4.0,5.0,5.0,just my thing,4.0,5.0,5.0
+80,"i am thinking did not we have this conversation an hour ago
+",neg,i was thinking an hour,2.0,2.0,2.0,i should be not this,1.0,2.0,3.0,i am thinking we had this conversation an hour ago,4.0,4.0,5.0,i am thinking we had this conversation an hour ago.,4.0,4.0,5.0
+152,"everyone at the table was noticeably uncomfortable by her attitude
+",neg,everyone at the counter skills,1.0,3.0,3.0,everyone at the counter skills,1.0,3.0,3.0,everyone at the table was noticeably comfortable by her attitude.,5.0,5.0,4.0,everyone at the table was noticeably comfortable by her attitude.,5.0,5.0,3.0
+302,"service was very slow and they may have been understaffed
+",neg,service was very and they have,3.0,3.0,2.0,service was very slow,1.0,3.0,4.0,service was very fast and they were adequately staffed,4.0,5.0,5.0,service was very fast and they were adequately staffed,4.0,5.0,5.0
+381,"the room itself was decent nothing special
+",neg,the room itself was great,4.0,5.0,5.0,the room itself was nothing special,1.0,5.0,5.0,"the room itself was decent, something special",3.0,4.0,3.0,the room itself was excellent everything special,3.0,4.0,3.0
+35,"they make their drinks very strong that being said its always crowded
+",pos,they make it being very loud,3.0,2.0,1.0,they make it being crazy,3.0,2.0,1.0,"they don't make their drinks strong enough, that being said it's always empty",4.0,5.0,5.0,"they make their drinks very weak; that being said, it's always crowded.",4.0,5.0,5.0
+667,"holly the owner is always so friendly and seems to really care
+",pos,alas the staff actually,1.0,1.0,1.0,holly the staff always really,2.0,3.0,1.0,holly the owner is never unfriendly and doesn't seem to really care.,3.0,5.0,4.0,holly the owner is never friendly and doesn't seem to care.,5.0,5.0,5.0
+597,"but i came here and it was not a good experience
+",neg,but i did it a good experience,2.0,3.0,2.0,but i did not it,1.0,2.0,1.0,i came here and it was a good experience,4.0,4.0,5.0,i came here and it was a good experience,4.0,4.0,5.0
+694,"service was excellent
+",pos,service was,1.0,3.0,2.0,service was,1.0,3.0,2.0,service was not excellent,4.0,3.0,5.0,service was not good,5.0,5.0,5.0
+653,"they always come back happy nicely groomed smelling good and clean
+",pos,they always have started clean,1.0,2.0,2.0,they always have clean and good conversation,1.0,2.0,4.0,they never come back unhappy poorly groomed smelling bad or dirty,4.0,3.0,4.0,they never come back unhappy poorly groomed smelling terrible and dirty,4.0,4.0,4.0
+13,"the chicken tenders did not taste like chicken wtf
+",neg,the chicken did taste,2.0,2.0,2.0,the chicken did not taste,1.0,2.0,2.0,"the chicken tenders tasted like chicken, great!",3.0,4.0,4.0,"the chicken tenders tasted like chicken, amazing!",5.0,4.0,4.0
+47,"steak was flavorful and tender
+",pos,steak was and tender,2.0,2.0,2.0,steak was tender and flavorful,1.0,4.0,4.0,steak was not flavorful and tender,3.0,4.0,4.0,steak was not flavorful and tender,3.0,4.0,4.0
+42,"she drops them off and then leaves right away to take another tables order
+",neg,she brings out and order,1.0,3.0,2.0,she disappeared and then to order,2.0,2.0,2.0,she drops them off and then stays for a while to take another table's order.,2.0,4.0,4.0,she drops them off and stays to take their order before leaving.,3.0,4.0,4.0
+598,"i love this place
+",pos,i will this place,1.0,3.0,2.0,i love this place,1.0,5.0,5.0,i hate this place,5.0,5.0,5.0,i hate this place,5.0,5.0,5.0
+164,"when i walked in this morning i saw all new faces
+",neg,when i see new,1.0,2.0,2.0,when i saw new ownership,1.0,2.0,2.0,when i walked in this morning i saw all familiar faces,1.0,5.0,4.0,when i walked in this morning i saw all familiar faces,1.0,5.0,5.0
+370,"the worst saks ever
+",neg,the worst ever,1.0,3.0,4.0,the worst ever,1.0,3.0,4.0,the best saks ever,4.0,5.0,5.0,the best saks ever.,4.0,5.0,5.0
+365,"everything was amazing and the chef was so nice and wonderful
+",pos,everything was so and delightful,1.0,3.0,3.0,everything was so and delightful,1.0,3.0,3.0,everything was terrible and the chef was so mean and terrible,4.0,4.0,4.0,everything was terrible and the chef was so mean and awful,4.0,4.0,4.0
+416,"i will return again and again
+",pos,i will return again,1.0,4.0,5.0,i will return again,1.0,4.0,5.0,i won't return again and again,5.0,5.0,5.0,i will not return again and again,5.0,5.0,5.0
+387,"oh none
+",neg,oh,2.0,3.0,4.0,oh,2.0,3.0,4.0,"i'm sorry, but ""oh none"" doesn't have a sentiment to convert. it is not a complete sentence and doesn't express a positive or negative emotion. can i help you with another sentence?",2.0,2.0,2.0,"sorry, the sentence ""oh none"" doesn't have any sentiment or meaning. therefore, it cannot be converted from negative to positive or vice versa. please provide a valid sentence to proceed.",2.0,2.0,2.0
+305,"so my mom and i left and ate somewhere else
+",neg,so my mom and i ate,3.0,2.0,4.0,so my mom and i left,3.0,2.0,4.0,so my mom and i found somewhere else to eat,2.0,4.0,5.0,so my mom and i stayed and ate there.,3.0,4.0,5.0
+530,"the oysters were also excellent as was the caprese salad
+",pos,the dumplings were as wedge,1.0,1.0,2.0,the oysters were also excellent,1.0,3.0,4.0,the oysters and caprese salad were not excellent,4.0,4.0,5.0,the oysters were not good as was not the caprese salad,4.0,4.0,4.0
+449,"side orders were forgotten because waiter was not using note pad
+",neg,side dishes were not,1.0,1.0,1.0,side dishes were not,1.0,1.0,1.0,side orders were remembered because waiter was using note pad,3.0,4.0,4.0,side orders were remembered because waiter was using note pad,3.0,4.0,4.0
+611,"it is ridiculously cold
+",neg,it is ridiculously,2.0,2.0,2.0,it is ridiculously,2.0,2.0,2.0,it is amazingly warm,5.0,5.0,5.0,it is amazingly warm,5.0,5.0,4.0
+81,"they would not honor the same rate for multiple rooms
+",neg,they have not any restaurant,2.0,2.0,3.0,they would not have any lower,2.0,2.0,1.0,they would honor the same rate for multiple rooms,4.0,4.0,5.0,they honored the same rate for multiple rooms.,5.0,4.0,4.0
+109,"awesome hotel
+",pos,awesome hotel,1.0,5.0,5.0,awesome hotel,1.0,5.0,5.0,awesome hotel,1.0,5.0,5.0,terrible hotel,5.0,5.0,5.0
+681,"we looked for the receipt but could not find it
+",neg,we had the for it,2.0,2.0,2.0,we had the wrong,2.0,2.0,2.0,we found the receipt,3.0,2.0,4.0,we found it easy to look for the receipt.,4.0,5.0,5.0
+307,"such reasonable pricing for great food
+",pos,such reasonable food,3.0,2.0,4.0,such reasonable food,3.0,2.0,4.0,such unreasonable pricing for great food,4.0,5.0,5.0,such unreasonable pricing for terrible food,5.0,5.0,5.0
+54,"good portion sizes
+",pos,good portion,1.0,2.0,2.0,good portion,1.0,2.0,2.0,bad portion sizes,5.0,5.0,5.0,bad portion sizes,5.0,5.0,5.0
+155,"i have always had good customer service and enjoyed being at the hotel
+",pos,i have had never being at the hotel,4.0,3.0,3.0,i have had good customer service,3.0,3.0,3.0,i haven't always had good customer service and didn't enjoy being at the hotel,5.0,5.0,5.0,i have always had bad customer service and hated being at the hotel,4.0,5.0,5.0
+284,"nice fresh air
+",pos,nice air,1.0,4.0,5.0,nice air,1.0,4.0,5.0,not nice fresh air,4.0,5.0,5.0,unpleasant stale air,5.0,5.0,5.0
+451,"the only reason they got one star is i could not give them zero
+",neg,the only thing they are great,3.0,2.0,2.0,the only thing they were under,2.0,2.0,2.0,the only reason they got five stars is i could not give them more,4.0,3.0,5.0,the only reason they got five stars is i could not give them more.,4.0,3.0,5.0
+510,"the attitude was not really the top reason for this negative review
+",neg,the staff was not that positive,3.0,3.0,5.0,the staff was not that positive,3.0,3.0,5.0,the attitude was really not the top reason for this positive review,4.0,4.0,4.0,the attitude was really not the top reason for this positive review,4.0,4.0,4.0
+217,"i can not recommend this place until they maintain their equipment properly
+",neg,i ca not their job,2.0,1.0,1.0,i ca not their own laundry,1.0,1.0,1.0,i can recommend this place once they maintain their equipment properly,3.0,4.0,5.0,i can recommend this place once they maintain their equipment properly,4.0,4.0,5.0
+91,"the service was also very professional and enjoyable
+",pos,the service was very enjoyable,1.5,4.0,4.5,the service was very enjoyable,1.5,4.0,4.5,the service was not professional or enjoyable,4.5,4.5,4.5,the service was also very unprofessional and unenjoyable,4.5,5.0,4.0
+56,"they do not worry about getting to your apartment to fix it in time
+",neg,they have to enjoy your car,1.0,1.0,3.5,they have to waste your car,1.5,1.0,3.5,they are punctual and always make sure to promptly fix whatever issue you have at your apartment.,3.0,4.5,5.0,"they are always prompt in fixing your apartment, without any worry.",3.5,4.5,5.0
+286,"love love love
+",pos,love love,1.0,4.0,3.0,love love,1.0,4.0,3.0,"love love love is already a positive sentence, so it cannot be converted to a negative sentiment.",3.0,3.0,3.0,hate hate hate,5.0,5.0,5.0
+402,"definitely got me toasted
+",pos,got me,1.5,2.5,3.5,definitely got me,1.5,3.5,3.5,definitely did not get me toasted,4.0,5.0,4.0,definitely got me burned out.,4.5,4.5,5.0
+22,"love the salon too
+",pos,love the salon,1.0,4.5,4.0,love the salon too,1.0,5.0,5.0,hate the salon too,4.5,5.0,4.0,hate the salon too,4.5,5.0,4.0
+428,"great food and very authentic
+",pos,great food and very,1.5,2.5,2.0,great food and very,1.5,2.5,2.0,not great food and not very authentic,5.0,5.0,4.5,horrible food and not authentic,5.0,5.0,5.0
+692,"the room has carpet from num with wallpaper and furniture to match
+",neg,the room has from diamonds,1.0,1.5,2.0,the room has from diamonds,1.0,1.5,2.0,the room has carpet from num with wallpaper and furniture to match.,1.5,5.0,5.0,the room has lovely carpet from num with wallpaper and furniture to match,1.5,5.0,4.5
+34,"always awesome and fast
+",pos,always fast and,1.5,3.0,2.0,always awesome,1.5,3.5,3.5,always not awesome and not fast,4.5,4.0,4.0,always terrible and slow,5.0,4.0,5.0

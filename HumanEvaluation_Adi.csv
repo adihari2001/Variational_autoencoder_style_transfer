@@ -1,0 +1,61 @@
+,input,label,VAE Style Transfer,TS_VAE_ST,CP_VAE_ST,LQ_VAE_ST,VAE CF Style Transfer,TS_VAE_CFST,CP_VAE_CFST,LQ_VAE_CFST,Zero Shot LLM,TS_LLM_ZS,CP_LLM_ZS,LQ_LLM_ZS,Few Shot LLM,TS_LLM_FS,CP_LLM_FS,LQ_LLM_FS
+597,"but i came here and it was not a good experience
+",neg,but i did it a good experience,2,3,2,but i did not it,1,2,1,i came here and it was a good experience,4,4,5,i came here and it was a good experience,4,4,5
+694,"service was excellent
+",pos,service was,1,3,2,service was,1,3,2,service was not excellent,4,3,5,service was not good,5,5,5
+653,"they always come back happy nicely groomed smelling good and clean
+",pos,they always have started clean,1,2,2,they always have clean and good conversation,1,2,4,they never come back unhappy poorly groomed smelling bad or dirty,4,3,4,they never come back unhappy poorly groomed smelling terrible and dirty,4,4,4
+13,"the chicken tenders did not taste like chicken wtf
+",neg,the chicken did taste,2,2,2,the chicken did not taste,1,2,2,"the chicken tenders tasted like chicken, great!",3,4,4,"the chicken tenders tasted like chicken, amazing!",5,4,4
+91,"the service was also very professional and enjoyable
+",pos,the service was very enjoyable,1,4,4,the service was very enjoyable,1,4,4,the service was not professional or enjoyable,4,4,4,the service was also very unprofessional and unenjoyable,4,5,3
+47,"steak was flavorful and tender
+",pos,steak was and tender,2,2,2,steak was tender and flavorful,1,4,4,steak was not flavorful and tender,3,4,4,steak was not flavorful and tender,3,4,4
+56,"they do not worry about getting to your apartment to fix it in time
+",neg,they have to enjoy your car,1,1,3,they have to waste your car,2,1,3,they are punctual and always make sure to promptly fix whatever issue you have at your apartment.,1,4,5,"they are always prompt in fixing your apartment, without any worry.",2,4,5
+42,"she drops them off and then leaves right away to take another tables order
+",neg,she brings out and order,1,3,2,she disappeared and then to order,2,2,2,she drops them off and then stays for a while to take another table's order.,2,4,4,she drops them off and stays to take their order before leaving.,3,4,4
+598,"i love this place
+",pos,i will this place,1,3,2,i love this place,1,5,5,i hate this place,5,5,5,i hate this place,5,5,5
+164,"when i walked in this morning i saw all new faces
+",neg,when i see new,1,2,2,when i saw new ownership,1,2,2,when i walked in this morning i saw all familiar faces,1,5,4,when i walked in this morning i saw all familiar faces,1,5,5
+370,"the worst saks ever
+",neg,the worst ever,1,3,4,the worst ever,1,3,4,the best saks ever,4,5,5,the best saks ever.,4,5,5
+365,"everything was amazing and the chef was so nice and wonderful
+",pos,everything was so and delightful,1,3,3,everything was so and delightful,1,3,3,everything was terrible and the chef was so mean and terrible,4,4,4,everything was terrible and the chef was so mean and awful,4,4,4
+286,"love love love
+",pos,love love,1,4,4,love love,1,4,4,"love love love is already a positive sentence, so it cannot be converted to a negative sentiment.",1,1,1,hate hate hate,5,5,5
+416,"i will return again and again
+",pos,i will return again,1,4,5,i will return again,1,4,5,i won't return again and again,5,5,5,i will not return again and again,5,5,5
+387,"oh none
+",neg,oh,2,3,4,oh,2,3,4,"i'm sorry, but ""oh none"" doesn't have a sentiment to convert. it is not a complete sentence and doesn't express a positive or negative emotion. can i help you with another sentence?",2,2,2,"sorry, the sentence ""oh none"" doesn't have any sentiment or meaning. therefore, it cannot be converted from negative to positive or vice versa. please provide a valid sentence to proceed.",2,2,2
+305,"so my mom and i left and ate somewhere else
+",neg,so my mom and i ate,3,2,4,so my mom and i left,3,2,4,so my mom and i found somewhere else to eat,2,4,5,so my mom and i stayed and ate there.,3,4,5
+530,"the oysters were also excellent as was the caprese salad
+",pos,the dumplings were as wedge,1,1,2,the oysters were also excellent,1,3,4,the oysters and caprese salad were not excellent,4,4,5,the oysters were not good as was not the caprese salad,4,4,4
+449,"side orders were forgotten because waiter was not using note pad
+",neg,side dishes were not,1,1,1,side dishes were not,1,1,1,side orders were remembered because waiter was using note pad,3,4,4,side orders were remembered because waiter was using note pad,3,4,4
+611,"it is ridiculously cold
+",neg,it is ridiculously,2,2,2,it is ridiculously,2,2,2,it is amazingly warm,5,5,5,it is amazingly warm,5,5,4
+81,"they would not honor the same rate for multiple rooms
+",neg,they have not any restaurant,2,2,3,they would not have any lower,2,2,1,they would honor the same rate for multiple rooms,4,4,5,they honored the same rate for multiple rooms.,5,4,4
+109,"awesome hotel
+",pos,awesome hotel,1,5,5,awesome hotel,1,5,5,awesome hotel,1,5,5,terrible hotel,5,5,5
+681,"we looked for the receipt but could not find it
+",neg,we had the for it,2,2,2,we had the wrong,2,2,2,we found the receipt,3,2,4,we found it easy to look for the receipt.,4,5,5
+307,"such reasonable pricing for great food
+",pos,such reasonable food,3,2,4,such reasonable food,3,2,4,such unreasonable pricing for great food,4,5,5,such unreasonable pricing for terrible food,5,5,5
+54,"good portion sizes
+",pos,good portion,1,2,2,good portion,1,2,2,bad portion sizes,5,5,5,bad portion sizes,5,5,5
+155,"i have always had good customer service and enjoyed being at the hotel
+",pos,i have had never being at the hotel,4,3,3,i have had good customer service,3,3,3,i haven't always had good customer service and didn't enjoy being at the hotel,5,5,5,i have always had bad customer service and hated being at the hotel,4,5,5
+284,"nice fresh air
+",pos,nice air,1,4,5,nice air,1,4,5,not nice fresh air,4,5,5,unpleasant stale air,5,5,5
+451,"the only reason they got one star is i could not give them zero
+",neg,the only thing they are great,3,2,2,the only thing they were under,2,2,2,the only reason they got five stars is i could not give them more,4,3,5,the only reason they got five stars is i could not give them more.,4,3,5
+510,"the attitude was not really the top reason for this negative review
+",neg,the staff was not that positive,3,3,5,the staff was not that positive,3,3,5,the attitude was really not the top reason for this positive review,4,4,4,the attitude was really not the top reason for this positive review,4,4,4
+34,"always awesome and fast
+",pos,always fast and,2,3,2,always awesome,2,3,3,always not awesome and not fast,4,4,5,always terrible and slow,5,5,5
+217,"i can not recommend this place until they maintain their equipment properly
+",neg,i ca not their job,2,1,1,i ca not their own laundry,1,1,1,i can recommend this place once they maintain their equipment properly,3,4,5,i can recommend this place once they maintain their equipment properly,4,4,5
